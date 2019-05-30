@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<string name="storage_link" translatable="false">gs://blacksocial-f79fd.appspot.com</string>-->
+    <!--<string name="google_web_client_id" translatable="false">1032031906553-2edlavg69v33r634nrpm7kh6cs34cgpu.apps.googleusercontent.com</string>-->
+    <!--<string name="facebook_app_id" translatable="false">440220806554484</string>-->
+    <!--<string name="facebook_large_image_url_pattern" translatable="false">https://graph.facebook.com/%1$s/picture?type=large</string>-->
+    <!--<string name="google_large_image_url_pattern" translatable="false">%1$s?sz=%2$d</string>-->
+
+    <string name="storage_link" translatable="false">gs://kenken-dcf08.appspot.com</string>
+    <string name="google_web_client_id" translatable="false">116941887709-pdbbcgtvsdr4v9ahn6clr5fgucte7329.apps.googleusercontent.com</string>
+    <string name="facebook_app_id" translatable="false">2123903074568181</string>
+    <string name="facebook_large_image_url_pattern" translatable="false">https://graph.facebook.com/%1$s/picture?type=large</string>
+    <string name="google_large_image_url_pattern" translatable="false">%1$s?sz=%2$d</string>
+</resources>
